@@ -1,0 +1,1 @@
+# Plataforma-para-el-Registro-y-An-lisis-de-Operaciones-de-Trading-mediante-Base-de-Datos.
